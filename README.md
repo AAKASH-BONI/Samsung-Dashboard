@@ -34,6 +34,15 @@ The dataset used in this project is confidential and cannot be shared publicly. 
 - Data Visualization: Used charts, KPIs, and filters to transform raw data into meaningful insights.
 - Decision Support: Enabled stakeholders to quickly identify trends, inefficiencies, and opportunities for improving supply chain operations.
 
+## Interactive Tableau Dashboard
+
+![](https://github.com/AAKASH-BONI/Samsung-Dashboard/blob/main/Screenshot%202026-03-30%20122314.png)
+![](https://github.com/AAKASH-BONI/Samsung-Dashboard/blob/main/Screenshot%202026-03-30%20123910.png)
+![](https://github.com/AAKASH-BONI/Samsung-Dashboard/blob/main/Screenshot%202026-03-30%20123931.png)
+![](https://github.com/AAKASH-BONI/Samsung-Dashboard/blob/main/Screenshot%202026-03-30%20124539.png)
+![](https://github.com/AAKASH-BONI/Samsung-Dashboard/blob/main/Screenshot%202026-03-30%20124604.png)
+![](https://github.com/AAKASH-BONI/Samsung-Dashboard/blob/main/Screenshot%202026-03-30%20125455.png)
+
 ## Business Impact
 
 - Improved Decision-Making: The dashboard helps stakeholders quickly analyze supply chain data and make faster, data-driven decisions for operations at Samsung    Electronics.
