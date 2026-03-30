@@ -59,7 +59,7 @@ This project demonstrates how Power BI can be used to transform complex supply c
 
 ## Built & Analyzed By – Akash Sharma
 
-This project is part of my analytics portfolio, highlighting my skills in Power BI, data visualization, DAX, and dashboard design for solving real-world HR business problems. It reflects my ability to transform workforce data into actionable insights and build interactive dashboards that support data-driven decision-making.
+This project is part of my analytics portfolio, highlighting my skills in Power BI, data visualization, DAX, and dashboard design for solving real-world business problems. It reflects my ability to transform workforce data into actionable insights and build interactive dashboards that support data-driven decision-making.
 
 ### Stay Updated and Get Connected
 
