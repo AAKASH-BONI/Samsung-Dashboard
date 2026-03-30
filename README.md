@@ -1,3 +1,3 @@
 # 📊 Samsung - Power BI Dashboard Project
 
-![](https://github.com/AAKASH-BONI/HR-Analytics/blob/main/Screenshot%202026-02-27%20192805.png).
+![](https://github.com/AAKASH-BONI/Samsung-Dashboard/blob/main/1687677799775.png).
