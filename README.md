@@ -21,7 +21,7 @@ The dashboard provides a data-driven view of the supply chain, allowing users to
 
 ## Dataset
 
-The dataset used in this project is confidential and cannot be shared publicly. It reflects a realistic HR data structure including employee demographics, compensation, and attrition metrics for analytical purposes.
+The dataset used in this project is confidential and cannot be shared publicly
 
 ## Key Features
 
